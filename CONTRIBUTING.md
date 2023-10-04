@@ -29,7 +29,7 @@
 <pre><code>git checkout -b your-branch-name</code></pre>
 
 <ol start="4">
-  <li><strong>Contribute a New Project:</strong> If you're adding a new project, create a directory for it inside the <code>projects</code> directory. Ensure your project follows the <a href="#project-structure">Project Structure</a> guidelines.</li>
+  <li><strong>Contribute a New Project:</strong> If you're adding a new project, create a directory for it. Ensure your project follows the <a href="#project-structure">Project Structure</a> guidelines.</li>
   <li><strong>Commit and Push:</strong> After making your changes, commit and push them to your forked repository:</li>
 </ol>
 
@@ -49,7 +49,7 @@ git push origin your-branch-name</code></pre>
 <p>When adding a new machine learning project, please adhere to the following guidelines:</p>
 
 <ul>
-  <li>Create a directory for your project inside the <code>projects</code> directory.</li>
+  <li>Create a directory for your project.</li>
   <li>Include a <code>README.md</code> file with clear instructions on how to use your project.</li>
   <li>Add a brief description of your project, its purpose, and any dependencies.</li>
   <li>Use a clear and organized file structure for your project's code and resources.</li>
@@ -58,8 +58,7 @@ git push origin your-branch-name</code></pre>
 <p>Example Project Structure:</p>
 
 <pre>
-projects/
-  └── YourProjectName/
+YourProjectName/
       ├── README.md
       ├── code/
       │   ├── main.py
