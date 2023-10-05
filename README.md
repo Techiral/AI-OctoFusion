@@ -1,5 +1,5 @@
 # AI-OctoFusion
-<img src="https://socialify.git.ci/Techiral/AI-OctoFusion/image?description=1&descriptionEditable=Welcome%20to%20AI-OctoFusion%2C%20a%20curated%20collection%20of%20the%20best%20machine%20learning%20projects%20for%20Hacktoberfest!%20%F0%9F%8E%89&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto" alt="AI-OctoFusion" width="720" height="320" />
+<img src="https://socialify.git.ci/Techiral/AI-OctoFusion/image?description=1&descriptionEditable=Welcome%20to%20AI-OctoFusion%2C%20a%20curated%20collection%20of%20the%20best%20machine%20learning%20projects%20for%20Hacktoberfest!%20%F0%9F%8E%89&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto" alt="AI-OctoFusion" width="625" height="320" />
 
 <h2>Table of Contents</h2>
 
